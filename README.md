@@ -1,1 +1,1 @@
-# password
+# this a simple logic program that shows how password function work.
